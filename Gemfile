@@ -9,7 +9,12 @@ end
 gem 'solidus'
 gem 'solidus_auth_devise'
 gem 'bootstrap-sass'
-
+#la methode has_secure_password doit etre ajoutee au modele pour s'assurer que le mot passe est correctement chifre
+gem 'bcrypt'
+#le gem JWT rendra l'encodage et le decodage des getons
+gem 'jwt'
+#le Gem simple_commande facilite la connexion entre le controleur et le modele
+gem 'simple_command'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
 # Use sqlite3 as the database for Active Record
