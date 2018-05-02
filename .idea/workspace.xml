@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f145f777-6fc4-43b2-9100-369a781dd92f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/spree/frontend/all.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/spree/custom_checkout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/spree/frontend/all.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/spree/frontend/base.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/spree/frontend/devise.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/spree/frontend/products.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/spree/store_controller_decorator.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/spree/base_helper_decorator.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/spree/checkout_helper_decorator.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/address/_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/base/_application.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/base/_devise.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/checkout/_adress.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/checkout/_confirm.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/checkout/_delivery.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/checkout/_payment.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/checkout/_summary.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/checkout/edit.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/checkout/registration.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/layouts/spree_application.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/orders/_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/orders/_line_item.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/orders/edit.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/products/_cart_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/products/_properties.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/products/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/shared/_address.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/shared/_error_messages.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/shared/_header.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/shared/_login.htm.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/shared/_order_details.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/shared/_products.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/shared/_taxonomies.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/shared/_user_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/user_passwords/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/user_registrations/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/user_sessions/_login.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/spree/user_sessions/new.html.erb" afterDir="false" />
-    </list>
+    <list default="true" id="f145f777-6fc4-43b2-9100-369a781dd92f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +20,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_header.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -78,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checkout_helper_decorator.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="checkout_helper_decorator.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/helpers/spree/checkout_helper_decorator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
+            <state relative-caret-position="192">
               <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
             </state>
           </provider>
@@ -481,18 +441,17 @@
       <workItem from="1525151041005" duration="2167000" />
       <workItem from="1525215738831" duration="6572000" />
       <workItem from="1525228499871" duration="1197000" />
-      <workItem from="1525230229527" duration="11122000" />
+      <workItem from="1525230229527" duration="11462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21058000" />
+    <option name="totallyTimeSpent" value="21398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1024" height="706" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3203125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3203125" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50097656" side_tool="true" weight="0.26623377" />
@@ -501,7 +460,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49902344" visible="true" weight="0.3068182" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49902344" visible="true" weight="0.3068182" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -690,6 +649,13 @@
     <entry file="file://$PROJECT_DIR$/app/views/spree/checkout/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/helpers/spree/base_helper_decorator.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
@@ -699,15 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/helpers/spree/checkout_helper_decorator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
+        <state relative-caret-position="192">
           <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
         </state>
       </provider>
     </entry>
